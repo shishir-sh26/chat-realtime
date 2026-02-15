@@ -1,4 +1,4 @@
-# NexusApp - High-End Real-time React Application
+# AlphaApp - High-End Real-time React Application
 
 A modern, scalable social platform built with **React**, **Vite**, **TypeScript**, and **Firebase**. Features a premium "Glassmorphism" UI, real-time chat, and secure data handling.
 

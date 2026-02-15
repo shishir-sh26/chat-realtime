@@ -19,7 +19,7 @@ const Sidebar: React.FC = () => {
     <aside className="w-64 h-screen fixed left-0 top-0 glass border-r border-white/10 flex flex-col p-6 z-50">
       <div className="mb-10">
         <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600">
-          NexusApp
+          AlphaApp
         </h1>
       </div>
 

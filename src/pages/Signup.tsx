@@ -38,7 +38,7 @@ const Signup: React.FC = () => {
       <div className="glass p-8 rounded-2xl w-full max-w-md z-10 mx-4">
         <div className="text-center mb-8">
           <h2 className="text-3xl font-bold text-white mb-2">Create Account</h2>
-          <p className="text-gray-400">Join NexusApp today</p>
+          <p className="text-gray-400">Join AlphaApp today</p>
         </div>
 
         {error && (
